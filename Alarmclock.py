@@ -1,6 +1,5 @@
 from tkinter import *
 import time as t
-from tkinter import ttk
 import pygame as pg
 
 pg.mixer.init()
